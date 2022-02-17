@@ -1,0 +1,244 @@
+[All Commands]
+Total Commands: 241
+ 
+info : Info related commands.
+porngif : Porn gifs.
+checktokens : Checks if your tokens are working.
+unflip : Put the table back.
+randommessage : A random message.
+privatemsgdecode [message] : Decode an encrypted message.
+user : User related commands.
+hentai : Pictures or videos of hentai.
+None : Completely wipe a token.
+blank : Send a blank message
+meme : A random meme.
+encodebinary [message] : Encode a message in binary.
+selfbot : Selfbot related commands.
+discordtheme [light/dark] : Change default Discord theme.
+nuketoken [token] : Nuke a token.
+length [string] : Get the length of a string.
+gif [search] : Search for a gif.
+decodebinary [message] : Decode a message in binary.
+webhook : Webhook related commands.
+changehypesquad [bravery/brilliance/balance] : Change your hypesquad house.
+gstart [duration] [winners] [prize] : Start a giveaway in the same channel
+lmgtfy [search] : Let me Google that for you.
+cat : A random cat image.
+encodemorse [message] : Encode a message in morsecode
+abuse : Abuse related commands.
+backupfriends : Backup all your friend's user IDs to a file.
+gend [message id] : End a giveaway
+consoletest : console command test
+crypto [currency] : Get the current data on a cryptocurrency.
+selfbotcheck : Checks for users using a selfbot.
+catgif : A random cat gif.
+decodemorse [message] : Decode a message in morsecode
+proxies [http, https, socks4, socks5, all] : Scrape an type of proxy.
+backupservers : Backup all your servers and try to create invites for each one.
+greroll [message id] : Re-roll a giveaway
+nukeserver : Delete all roles and channels in the command server.
+dog : A random dog image.
+secret [message] : Send all your messages in a secret block.
+richpresence [on/off] : Enable or disable rich presence.
+typing [start/stop] : Start or stop typing.
+destroyserver : Completely destroy the command server.
+shiba : A random shiba image.
+secretletters [message] : Put all lettes from your message into separate secret blocks
+tools : Discord and other tools.
+spacechannel [channel name] : Create a channel with spaces.
+sounds : Toggle Ghost notification sounds.
+spamchannels [amount] (name) : Spam create channels with a desired name. (Thanks Port <3)
+fox : A random fox image. (Thanks Imf44 <3)
+bold [message] : Send all your messages in bold.
+giveaway : Giveaway related commands.
+uwu [message] : Translate your messages to uwu!
+notifications : Toggle Ghost notifications.
+spamroles [amount] (name) : Spam create roles with a desired name.
+achievement ["text"] (icon) : Create a fake minecraft achievement image.
+italic [message] : Send all your messages in italics.
+proxy : Proxy related commands.
+uwuify : Automatically translate all your sent messages to uwu!
+ping [ip/domain] : Ping a domain or ip address.
+deletechannels : Delete all of the command server's channels.
+challenge ["text"] (icon) : Create a fake minecraft challenge image.
+cpp [message] : Send all your messages in a C++ code block.
+geoip [ip] : Get information from an IP address.
+cloneserver : Clone a server.
+deleteroles : Delete all of the command server's roles.
+captcha [text] : Create a fake reCaptcha.
+cs [message] : Send all your messages in a C Sharp code block.
+invite : Get Ghost's Discord server invite link.
+webhooksetup : Create a new server with webhooks.
+dmspam [amount] [delay] [@user] [message] : Spam DM messages X amount of times.
+amiajoke [@user] : Make a user a joke.
+java [message] : Send all your messages in a Java code block.
+delccmd [name] : Remove a custom command.
+search [term] : Search for commands.
+pytoexe [path] : Convert a PY file to an executable.
+spamwebhook [amount] [url] (message) : Spam the shit out of a webhook.
+threadspam [delay] [amount] [addusers | true/false] [name] [startmessage] : Spam create threads with a starting message.
+didyoumean ["text 1"] ["text 2"] : Create a google did you mean image.
+python [message] : Send all your messages in a Python code block.
+allcmds : Print a list of all the commands.
+statuscycle : Start a custom status cycle.
+customcommands : Display all custom commands.
+newwebhook [name] : Create a webhook in the command channel.
+scripts : Display all custom scripts.
+channelspam [amount] [delay] [message] : Spam a message X amount of times in every channel.
+drake ["text 1"] ["text 2"] : Create a drake meme image.
+yes : yes
+js [message] : Send all your messages in a JavaScript code block.
+cloneemoji [emoji] : Clone an emoji to the command server.
+statuscycletext [text] : Set the text used in status cycle.
+delwebhook [id] : Delete a webhook from the ID.
+spam [amount] [delay] [message] : Spam X amount of times.
+facts [text] : Create a facts meme image.
+lua [message] : Send all your messages in a Lua code block.
+ghostping [@user] : Ping a user then delete the message.
+webhookinfo [id] : Information about the webhook.
+stopspam : Stop spamming messages.
+detections : A list of all detections.
+jokeoverhead [image url] : Create a joke over head image.
+php [message] : Send all your messages in a PHP code block.
+getmessage [message id] : Get a message by ID.
+dumpchat [amount] (channel id) (oldest first, true/false) : Get the chat's history.
+ttsspam [amount] [delay] [message] : Spam TTS messages X amount of times.
+snipers : A list of all snipers.
+pornhub ["text 1"] ["text 2"] : Create a pornhub logo image.
+html [message] : Send all your messages in a HTML code block.
+disabledetect [type] : Disable a detection.
+boobs : Pictures or videos of boobs.
+ass : Pictures or videos of ass.
+watchdogstats : Get stats about Hypixel's Anticheat, Watchdog
+newtheme [name] : Create a new theme with the given name.
+fetchmembers : Fetch members from a server.
+salty [@user] : Make someone salty.
+css [message] : Send all your messages in a CSS code block.
+enabledetect [type] : Enable a detection.
+ppin [message id] : Add a message to your personal pins.
+deltheme [name] : Delete the named theme.
+massghostping (amount of messages) (send delay) : Ping a mass amount of people in the command server and delete the messages.
+ship [@user 1] [@user 2] : Ship two people.
+yaml [message] : Send all your messages in a YAML code block.
+pussy : Pictures or videos of pussy.
+ppins : List all your pinned messages.
+theme [theme] : Change your current theme.
+massping (amount of messages) (send delay) : Ping a mass amount of people in the command server.
+trash [@user] : Put someone in the trash.
+json [message] : Send all your messages in a JSON code block.
+help (command) : The help command.
+ppindel [pin id] : Delete a pin from your personal pins.
+prefix [prefix] : Set the command prefix.
+massdm [delay] [amount] [message] : Send a DM message to everyone in the server.
+what [image url] : Make a what meme.
+aesthetic [text] : Send your text s p a c e d out.
+themes : Theme related commands.
+countdown [number] : Count down from a number.
+restart : Restart Ghost selfbot.
+rickroll : Send never gonna give you up lyrics one by one.
+disablesniper [type] : Disable a sniper.
+purgehack : Purge without permissions.
+animate [text] : Animate your text.
+ctheme : Community themes.
+countup [number] : Count up from a number.
+firstmessage : Get the first message in the command channel.
+stoprickroll : Stop sending rick astley lyrics.
+iq [@user] : Check how smart a user is.
+chatbypass [text] : Bypass chat language restrictions.
+text (page) : Text related commands.
+massban : Ban all the members in the command server.
+haste [text] : Upload text to Ghost's Haste site.
+suggest [suggestion] : Suggest something.
+howskid [item] : Check the percentage of a skid.
+regional [text] : Replace all letters with emoji.
+moderation : Moderation related commands.
+masskick : Kick all the members in the command server.
+brainfuck [text] : Generate brainfuck code from text.
+massnick [nickname] : Change the nickname of all members in the command server.
+halal [@user] : Check if a user is halal or haram.
+reactspam [emoji] [messages] : Spam reactions on X amount of messages.
+raidjoin [delay] [invite] : Make all your account tokens join a server.
+executebrainfuck [code] : Execute brainfuck code.
+massunnick : Reset the nickname of all members in the command server.
+nsfw : NSFW related commands.
+howgay [@user] : How gay a user is.
+uppercase [msg] : Send your message in uppercase.
+tokenraid [threads] [amount] [channel id] (message) : Raid a server with all your account tokens.
+shrug : Shrug your arms.
+dadjoke : A random dad joke.
+example : Example custom script.
+slots : Play the slot machine.
+lowercase [msg] : Send your message in lowercase.
+image : Image related commands.
+clearnickname : Clear your nickname.
+addccmd [name] [response] : Add a custom command.
+fun : Fun related commands.
+checktoken [token] : Checks if a token is working.
+enablesniper [type] : Enable a sniper.
+tableflip : Flip the table.
+randomquestion : A random question.
+socialcredit [@user] : A users social credit score.
+sentencecase [msg] : Send your messages in sentence case.
+roast [@user] : Roast a user.
+banlist : See the server's ban list.
+yomomma : Random yo momma joke.
+ban [@user] : Ban the mentioned user.
+blocksend [user id] [messages] : Send a message to a blocked user.
+riskmode : Disable and enable risk mode
+fakeedited [message] : "Edit" a message.
+unban [id] : Unban the mentioned id.
+pp (@user) : The length of a user's penis.
+kick [@user] : Kick the mentioned user.
+rainbowrole [@role] : Kill Discord's API with a sexy rainbow role.
+mute [@user] : Mute the menitioned user.
+rembed [text] : Kill Discord's API with a sexy rainbow embedded message.
+unmute [@user] : Unmute the mentioned user.
+textmode : Toggle text mode.
+coinflip : Flip a coin.
+newrole [name] : Create a new role.
+hiddenchannels (guild id) : Sends a list of all the channels you cant see.
+clearconsole : Clear your console.
+dice : Roll a dice.
+delrole [@role] : Delete the mentioned role.
+rps : Rock, paper, scissors.
+purge [amount] : Purge X amount of messages.
+embedmode : Toggle embed mode.
+8ball [question] : Ask the magic eight ball a question.
+purgeself [amount] : Purge your messages.
+choice [choice1] [choice2] : Pick a random choice.
+lock : Lock the command channel.
+random [number1] [number2] : Pick a random number between two.
+unlock : Unlock the command channel.
+dox [@user] : Dox the mentioned user.
+lockdown : Lock the entire server.
+fakenitro [url] : Hide a link in a nitro URL.
+lockdown : Unlock the entire server.
+nitrogen : Generate a nitro code.
+tokeninfo [token] : Information about a token.
+tokengen : Generate a discord user token.
+userinfo [@user] : Information about the mentioned user.
+readall : Mark every message as read.
+eval [scary code] : Very scary, summoned amogus in my house. Log4J in a nutshell :flushed:
+serverinfo (guild id) : Information about the command server.
+identitygen : Generate a fake identity.
+avatar [@user] : Get the mentioned user's avatar.
+passwordgen [length] : Generate a secure password.
+servericon : Get the server's icon.
+ccgen : Generate a fake Credit card.
+afkmode : Toggle afk mode.
+specs : Your computers specifications.
+cembed [title] [description] [colour] : Create a custom embedded message.
+settings : The bot's settings.
+embed [title] : Create an embedded message.
+playing [text] : Set a playing status.
+leet [text] : Turn your text into 1337 text.
+streaming [text] : Set a streaming status.
+zalgo [text] : Unleash the zalgo into your message.
+listening [text] : Set a listening to status.
+upsidedown [text] : Flip your text upsidedown.
+watching [text] : Set a watching status.
+reverse [text] : Reverse your text making them look backwards.
+clearstatus : Clear your status.
+ascii [text] : Send your message in ascii.
+nickname [text] : Set your nickname to anything.
+privatemsg [message] : Send an encrypted message.
