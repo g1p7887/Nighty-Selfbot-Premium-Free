@@ -15,5 +15,5 @@ Feel free to use any of the code found in this project for your own project.
 <br />
   
 > ### Useful Info  
-> - Discord : (Serveur)[https://dsc.gg/sansserver]
+> - Discord : https://dsc.gg/sansserver
 > - Supported OS : Windows, Linux, Mac 
